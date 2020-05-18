@@ -9,7 +9,7 @@ Topics covered:
 
 3. Perceptron based shallow Neural-Network
 
-   <img src="https://miro.medium.com/max/520/1*UGSVZ_Xq19x_wQeVlz76dQ.jpeg" alt="Perceptron" style="zoom: 50%;" />
+   ![Perceptron](https://miro.medium.com/max/520/1*UGSVZ_Xq19x_wQeVlz76dQ.jpeg)
 
 4. Deep Neural Networks
 
@@ -27,7 +27,7 @@ Topics covered:
 
   
 
-  ​	<img src="https://miro.medium.com/max/964/1*syyml8q8s1Yt-iEea5m1Ag.png" alt="CIFAR10" style="zoom: 33%;" />
+  ​	<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3649/media/cifar-10.png" alt="CIFAR10" style="zoom: 33%;" />
 
   
 
