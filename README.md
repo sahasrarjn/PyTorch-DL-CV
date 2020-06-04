@@ -2,6 +2,8 @@
 
 This repository contains worked out implementations for [PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/?LSNPUBID=QhjctqYUCD0&ranEAID=QhjctqYUCD0&ranMID=39197&ranSiteID=QhjctqYUCD0-1hYZOGjDH3dISFFHX6uK7g).
 
+<img src="https://github.com/sahasrarjn/PyTorch-DL-CV/blob/master/Certificate.jpg">
+
 Topics covered:
 1. Linear Regression
 
